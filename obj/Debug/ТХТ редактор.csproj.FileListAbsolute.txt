@@ -1,0 +1,11 @@
+C:\Users\mariy\source\repos\ТХТ редактор\bin\Debug\ТХТ редактор.exe.config
+C:\Users\mariy\source\repos\ТХТ редактор\bin\Debug\ТХТ редактор.exe
+C:\Users\mariy\source\repos\ТХТ редактор\bin\Debug\ТХТ редактор.pdb
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.csproj.AssemblyReference.cache
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ_редактор.Form1.resources
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ_редактор.Properties.Resources.resources
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.csproj.GenerateResource.cache
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.csproj.CoreCompileInputs.cache
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.exe
+C:\Users\mariy\source\repos\ТХТ редактор\obj\Debug\ТХТ редактор.pdb
